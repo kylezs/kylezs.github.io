@@ -1,2 +1,10 @@
-title: "Kyle Zsembery"
 theme: minima
+
+title: "Kyle's Resume"
+description: "What would you like to know about me?"
+
+author: "Kyle Zsembery"
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
