@@ -21,13 +21,18 @@ Below you'll find an extended resume. Which I still tried to keep fairly brief.
 # Resume
 
 ## Education
-- Bachelor of Science from The University of Melbourne (Major in Computing and Software Systems). WAM of 82.292
-- VCE at Penleigh and Essendon Grammar School. ATAR of 99.05
+- *Bachelor of Science from The University of Melbourne (Major in Computing and Software Systems)*. WAM of 82.292
+  - **Computer Science** - Algorithms, data structures
+  - **Data Science** - Machine learning, data visualisation and processing
+  - **Mathematics** - Linear algebra, calculus, probability
+  - **Other**: Management, Philosophy, Politics, Economics, Physics
+- *VCE at Penleigh and Essendon Grammar School*. ATAR of 99.05
+  - **Subjects**: English, Chemistry, Mathematical Methods, Specialist Mathematics, Latin, Indonesian
 
 ## Certifications
 - AWS Certified Developer Associate <a href="https://www.youracclaim.com/badges/afee04aa-30e0-49a2-9fca-c344228ce06c/public_url" target="_blank">(*id: DEKFYWXCNMBQQNKV*)</a>
 
-## Experience
+## Past Work
 - **Freelance Web Development**
 - **Web Developer at EyeCura** - *Dec 2017 - Feb 2018 (3 months)*
   - Rewrote code base from PHP to Laravel. Learning both PHP and Laravel on the job.
