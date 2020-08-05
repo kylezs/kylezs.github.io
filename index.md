@@ -3,12 +3,20 @@ title: Welcome
 description: Kyle Zsembery's Website Resume
 ---
 
-# About Me
+Hi, my name is Kyle Zsembery and this is my resume.
+
+I'm a Melbourne based software developer who can't stop learning.
+
 This is me.
 
 ![me](https://media-exp1.licdn.com/dms/image/C4E03AQGA2FEqxqXL-A/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=p9Kx8tT6ziuzV_TIn7E8N8bqGj88A3foNsVYKU6USwU)
 
----
+## What am I up to at the moment?
+Right now I'm consulting for Couterpart International.
+
+I'm also studying for the AWS Certified Solutions Architect Associate.
+
+
 # Resume
 
 ## Education
