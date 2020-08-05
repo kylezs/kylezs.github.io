@@ -16,6 +16,7 @@ Right now I'm consulting for Couterpart International.
 
 I'm also studying for the AWS Certified Solutions Architect Associate.
 
+Below you'll find an extended resume. Which I still tried to keep fairly brief.
 
 # Resume
 
@@ -47,5 +48,41 @@ I'm also studying for the AWS Certified Solutions Architect Associate.
   - Working with a not-for-profit to create a solution that would allow them to monitor human rights activists in developing countries to ensure they maintain good security hygiene
   - Integrated tools such as the Elastic stack and Kolide Fleet for osquery management using Kubernetes
 
-## Skills:
-- Stuff
+## Skills and Technologies:
+### Languages
+My love of learning new things leads me to trying out a bunch of different languages. Some I like more than others.
+Some of my favourites:
+- Python (+ Django) - I've also done some Machine Learning in Python
+- Javascript (+ React) - React is my Javascript framework of choice
+- Java - while I initially despised Java coming from Python, for large projects, it comes in handy
+- Haskell - Unfortunately Haskell has (so far) been left at university
+- Golang - I've had a small amount of experience, scripting, recently, but I have good vibes so far
+- HTML - 😉
+
+These are okay:
+- C - Pros: A lot of control. Cons: A lot to control.
+- Prolog - Pretty fun and perfect for a very specific set of problems.
+
+Some of my not so favourites:
+- PHP - Why is it so hard to be productive?
+- React Native - One code base, two OSs = Yay. One code base, one out of date dependency = Everything breaks and four hours of debugging because you first have to debug why the debugger isn't working
+
+### APIs
+- REST - Who hasn't used REST / JSON over HTTP?
+- gRPC - Microservices future? Binary over HTTP2 = super fast
+- GraphQL - Still JSON over HTTP, but getting required data on the frontend is just that little bit easier (in my opinion anyway)
+
+
+### Infrastructure + CI/CD
+Some technologies aren't languages, I won't discriminate this time.
+- Docker 
+  - Before learning Docker: "Docker seems useless."
+  - After learning docker: "Why isn't this containerised?"
+- Kubernetes - For when you're containers can't organise themselves
+- AWS - DVA and soon (hopefully) SAA, AWS is a powerful platform
+- Jenkins - Pipelines can hasten development cycles
+- Heroku - Super easy deployments
+- Netlify - Great for static, server side generated, static sites, such as those that use Gatsby.js
+
+### Other
+- Osquery - SQL to gather operating system info? Pretty cool.
