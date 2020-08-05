@@ -74,12 +74,11 @@ Some of my not so favourites:
 
 ### APIs
 - REST - Who hasn't used REST / JSON over HTTP?
-- gRPC - Microservices future? Binary over HTTP2 = super fast
+- gRPC - Microservices' future? Binary over HTTP2 = super fast
 - GraphQL - Still JSON over HTTP, but getting required data on the frontend is just that little bit easier (in my opinion anyway)
 
 
 ### Infrastructure + CI/CD
-Some technologies aren't languages, I won't discriminate this time.
 - Docker 
   - Before learning Docker: "Docker seems useless."
   - After learning docker: "Why isn't this containerised?"
@@ -90,4 +89,6 @@ Some technologies aren't languages, I won't discriminate this time.
 - Netlify - Great for static, server side generated, static sites, such as those that use Gatsby.js
 
 ### Other
+These just didn't fit anywhere else.
 - Osquery - SQL to gather operating system info? Pretty cool.
+- Kolide Fleet - How to manage all those osquery agents?
