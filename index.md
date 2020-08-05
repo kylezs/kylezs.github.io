@@ -78,7 +78,7 @@ Some technologies aren't languages, I won't discriminate this time.
 - Docker 
   - Before learning Docker: "Docker seems useless."
   - After learning docker: "Why isn't this containerised?"
-- Kubernetes - For when you're containers can't organise themselves
+- Kubernetes - For when your containers can't organise themselves
 - AWS - DVA and soon (hopefully) SAA, AWS is a powerful platform
 - Jenkins - Pipelines can hasten development cycles
 - Heroku - Super easy deployments
