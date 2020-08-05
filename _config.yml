@@ -1,5 +1,8 @@
 theme: minima
 
+minima:
+  skin: dark
+
 title: "Kyle's Resume"
 description: "What would you like to know about me?"
 
@@ -8,3 +11,7 @@ titles_from_headings:
   enabled: true
   strip_title: true
   collections: true
+
+# Already have a link home
+header_pages:
+  - contact.md

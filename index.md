@@ -9,7 +9,7 @@ This is me.
 ![me](https://media-exp1.licdn.com/dms/image/C4E03AQGA2FEqxqXL-A/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=p9Kx8tT6ziuzV_TIn7E8N8bqGj88A3foNsVYKU6USwU)
 
 ---
-# Formal Resume
+# Resume
 
 ## Education
 - Bachelor of Science from The University of Melbourne (Major in Computing and Software Systems). WAM of 82.292
