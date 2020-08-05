@@ -63,6 +63,7 @@ Some of my favourites:
 - Haskell - Unfortunately Haskell has (so far) been left at university
 - Golang - I've had a small amount of experience, scripting, recently, but I have good vibes so far
 - HTML - 😉
+- English - I like to write (normally non-technical stuff), and I write on [my blog](https://www.kylezsembery.com)
 
 These are okay:
 - C - Pros: A lot of control. Cons: A lot to control.
